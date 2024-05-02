@@ -1,0 +1,33 @@
+# Ignore all build directories
+Debug/
+Release/
+
+# Ignore object files
+*.obj
+*.o
+
+# Ignore encrypted files
+*.enc
+
+# Ignore Visual Studio specific files
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.idb
+*.pdb
+*.tlog/
+*.lastbuildstate
+*.filters
+
+# Ignore database files
+*.idb
+
+# Optional: Ignore all text files (if they are not needed)
+# *.txt
+
+# Ignore other files that are usually not needed
+*.log
+*.ilk
+*.res
+
